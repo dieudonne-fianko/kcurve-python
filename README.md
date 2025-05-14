@@ -81,11 +81,3 @@ Ce module permet d’obtenir :
 💡 **Envie d’améliorer ce projet ?** Contribue en proposant du code ou en partageant tes retours ! 🚀  
 
 ---
-
-✅ **Ton README.md est prêt !**  
-📌 **Ajoute ce fichier à ton dépôt GitHub et fais un commit :**  
-```bash
-git add README.md
-git commit -m "Ajout du README détaillé"
-git push origin main
-```
